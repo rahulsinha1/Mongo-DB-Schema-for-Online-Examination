@@ -1,0 +1,14 @@
+{
+  "name": "cs5200-mongodb-assignment5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.10"
+  }
+}
