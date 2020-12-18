@@ -2,4 +2,4 @@
 Implementation of Mongoose schema on a data model
 
 
-![Screenshot](https://imgur.com/a/AjoqftN)
+![Screenshot](Class Diagram.png)
